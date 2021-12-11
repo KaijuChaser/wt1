@@ -1,0 +1,1 @@
+javac -d ../bin com/max/tasks/task9/basket_equipment/Ball.java  com/max/tasks/task9/basket_equipment/Basket.java com/max/tasks/task9/enums/Color.java com/max/tasks/task9/Task9.java
